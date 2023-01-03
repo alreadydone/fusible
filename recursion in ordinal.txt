@@ -1,0 +1,32 @@
+﻿1 <= k < omega in all of the followings
+MC=Main Conjecture, EF = Erickson's formula
+assigning ordinal 1 to fusible number 0
+
+(MC) exc(omega^alpha k + beta) = exc(omega^{[alpha]_{exc(alpha)+k-1}} + beta)
+      - (beta = omega^{[alpha]_{exc(alpha)+k-1} + 1} ? 1 : 0)
+(EF) exc(omega^alpha k + beta) = exc(omega^{[alpha]_exc(alpha)} + beta)
+      - (beta = omega^{[alpha]_exc(alpha) + 1} ? 1 : 0)
+      for alpha,beta limits, beta<omega^alpha
+
+(MC) exc(omega^{alpha+1} k + beta) = exc(omega^alpha (k+1) + beta)
+(EF) exc(omega^{alpha+1} k + beta) = exc(omega^alpha 2 + beta)
+      for beta < omega^{alpha+1} limit
+      
+(MC) exc(omega^alpha k) = d(omega^alpha k) - d(alpha) + exc(alpha) - (k>1 ? 1 : 0)
+(EF) exc(omega^alpha k) = d(omega^alpha) - d(alpha) + exc(alpha)
+      for alpha limit
+
+(MC) exc(omega^alpha k) = d(omega^alpha k) - d(alpha) + (k>1 ? 1-k : 2)
+(EF) exc(omega^alpha k) = d(omega^alpha) - d(alpha) + (k>1 ? 0 : 2)
+      for alpha successor.
+
+     
+d(k) = k
+
+(MC) d(omega^alpha k + beta) = 1 + d(omega^{[alpha]_{exc(alpha)+k-1}} + beta)
+(EF) d(omega^alpha k + beta) = k + d(omega^{[alpha]_exc(alpha)} + beta)
+      for alpha limit, beta < omega^alpha
+
+(MC) d(omega^{alpha+1} k + beta) = 1 + d(omega^alpha (k+1) + beta)
+(EF) d(omega^{alpha+1} k + beta) = k + d(omega^alpha 2 + beta)
+      for beta < omega^alpha
