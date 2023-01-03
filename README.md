@@ -7,7 +7,7 @@ Jeff Erickson, Gabriel Nivasch, Junyan Xu. [*Fusible numbers and Peano Arithmeti
 Preliminary version in Proc. 36th Ann. ACM/IEEE Symp. on Logic in Comp. Sci. (LICS), 13 pages, 2021. [Distinguished paper](https://easyconferences.eu/lics2021/best-papers).\
 Full version in [*Logical Methods in Computer Science*](https://lmcs.episciences.org/9850), 18(3), article 6, 26 pages, 2022. 
 
-Alexander I. Bufetov, Gabriel Nivasch, Fedor Pakhomov. [*Generalized fusible numbers and their ordinals*](https://arxiv.org/abs/2205.11017).
+Alexander I. Bufetov, Gabriel Nivasch, Fedor Pakhomov. [*Generalized fusible numbers and their ordinals*](https://arxiv.org/abs/2205.11017).\
 [FOM mailing list](https://cs.nyu.edu/pipermail/fom/2020-June/022210.html) [discussions](https://cs.nyu.edu/pipermail/fom/2020-June/022216.html) (Harvey Friedman, et al.)
 
 [Erickson's page](http://jeffe.cs.illinois.edu/pubs/fusible.html)\
