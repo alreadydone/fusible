@@ -1,10 +1,10 @@
 # Fusible numbers
 
-Junyan Xu. [*Survey on fusible numbers*](https://arxiv.org/abs/1202.5614).
+Junyan Xu. [*Survey on fusible numbers*](https://arxiv.org/abs/1202.5614).\
 Counterexample to Erickson's formula and new conjectured formula with computations (see this repo), well-foundedness of fusible numbers, and algorithm to find the next fusible number.
 
-Jeff Erickson, Gabriel Nivasch, Junyan Xu. [*Fusible numbers and Peano Arithmetic*](https://arxiv.org/abs/2003.14342).
-Preliminary version in Proc. 36th Ann. ACM/IEEE Symp. on Logic in Comp. Sci. (LICS), 13 pages, 2021. [Distinguished Paper](https://easyconferences.eu/lics2021/best-papers)
+Jeff Erickson, Gabriel Nivasch, Junyan Xu. [*Fusible numbers and Peano Arithmetic*](https://arxiv.org/abs/2003.14342).\
+Preliminary version in Proc. 36th Ann. ACM/IEEE Symp. on Logic in Comp. Sci. (LICS), 13 pages, 2021. [Distinguished Paper](https://easyconferences.eu/lics2021/best-papers)\
 Full version in [*Logical Methods in Computer Science*](https://lmcs.episciences.org/9850), 18(3), article 6, 26 pages, 2022. 
 
 Alexander I. Bufetov, Gabriel Nivasch, Fedor Pakhomov. [*Generalized fusible numbers and their ordinals*](https://arxiv.org/abs/2205.11017).
