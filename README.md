@@ -1,7 +1,7 @@
 # Fusible numbers: resources
 
 Junyan Xu. [*Survey on fusible numbers*](https://arxiv.org/abs/1202.5614).\
-Counterexample to Erickson's formula and new conjectured formula with computations (see this repo), well-foundedness of fusible numbers, and algorithm to find the next fusible number.
+Counterexample to Erickson's formula and new conjectured formula with computations (see [this file](https://github.com/alreadydone/fusible/blob/bbcf548c713bb7939cf208026feed0bd2ef8dbce/computation.pdf) for details), well-foundedness of fusible numbers, and algorithm to find the next fusible number.
 
 Jeff Erickson, Gabriel Nivasch, Junyan Xu. [*Fusible numbers and Peano Arithmetic*](https://arxiv.org/abs/2003.14342).\
 Preliminary version in Proc. 36th Ann. ACM/IEEE Symp. on Logic in Comp. Sci. (LICS), 13 pages, 2021. [Distinguished paper](https://easyconferences.eu/lics2021/best-papers).\
